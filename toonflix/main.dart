@@ -52,7 +52,7 @@ class App extends StatelessWidget {
                   ],
                 ),
                 SizedBox(
-                  height: 45,
+                  height: 85,
                 ),
                 Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
@@ -93,7 +93,7 @@ class App extends StatelessWidget {
                   ],
                 ),
                 SizedBox(
-                  height: 50,
+                  height: 75,
                 ),
                 Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
